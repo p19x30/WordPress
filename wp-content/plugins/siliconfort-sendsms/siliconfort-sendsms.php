@@ -13,11 +13,11 @@
  * @package           Siliconfort_Sendsms
  *
  * @wordpress-plugin
- * Plugin Name:       WordPress Plugin Boilerplate
+ * Plugin Name:       SendSMS by SiliconFort
  * Plugin URI:        http://siliconfort.com/siliconfort-sendsms-uri/
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       This plugin is specificly developed to send SMS via SendSMS.pk and ...
  * Version:           1.0.0
- * Author:            Your Name or Your Company
+ * Author:            SiliconFort Private Limited
  * Author URI:        http://siliconfort.com/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
